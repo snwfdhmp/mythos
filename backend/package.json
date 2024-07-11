@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "prettier": {
+    "semi": false
+  },
+  "license": "MIT",
+  "dependencies": {
+    "a-star": "^0.2.0",
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "jsondiffpatch": "^0.6.0",
+    "jsonwebtoken": "^9.0.2",
+    "uuid": "^10.0.0",
+    "ws": "^8.17.1"
+  }
+}

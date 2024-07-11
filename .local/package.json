@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "local",
+  "version": "1.0.0",
+  "main": "index.js",
+  "prettier": {
+    "semi": false
+  },
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
